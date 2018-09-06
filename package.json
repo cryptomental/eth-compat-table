@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "gh-pages": "^0.12.0",
     "react-scripts": "0.8.5",
     "react-textfit": "https://github.com/vypah/react-textfit/tarball/master"
   },
   "dependencies": {
     "babel-preset-stage-2": "^6.22.0",
+    "rc-collapse": "1.6.12",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-sanfona": "0.1.0",

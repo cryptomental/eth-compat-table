@@ -14,25 +14,24 @@ let CLIENT_METAINFO = [];
 
 // github stats as of 2-24-2017
 const CLIENT_GITHUB_STARS = {
-  'cpp-ethereum': 838,
-  'go-ethereum': 3016,
-  'pyethereum': 698,
-  'parity': 801
+  'ethereumj': 1776,
+  'go-ethereum': 20500,
+  'aleth': 3360,
+  'parity': 4765
 };
 
 const CLIENT_NAMES_SHORT = {
-  'cpp-ethereum': 'cpp-eth',
+  'ethereumj': 'ethereumj',
   'go-ethereum': 'go-eth',
-  'pyethereum': 'pyeth',
+  'aleth': 'aleth',
   'parity': 'parity'
 };
 
 
 const CLIENT_URLS = {
-  'cpp-ethereum:develop': 'https://github.com/ethereum/cpp-ethereum/tree/develop',
+  'aleth:nightly': 'https://github.com/ethereum/aleth/tree/master',
   'go-ethereum:master': 'https://github.com/ethereum/go-ethereum/tree/master',
-  'go-ethereum:storage-at': 'https://github.com/fjl/go-ethereum/tree/storage-at',
-  'pyethereum:develop': 'https://github.com/ethereum/pyethereum/tree/develop',
+  'ethereumj:master': 'https://github.com/ethereum/ethereumj/tree/master',
   'parity:master': 'https://github.com/ethcore/parity/tree/master'
 };
 

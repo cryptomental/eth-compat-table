@@ -1,0 +1,143 @@
+Flags:  --no-discovery --config /chain2.json
+Loading remaining individual blocks...
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0000.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:36:51[0m [34mmain[0m net Id: [36m##f9cc36fe…[0m
+1 imported in 1.776 seconds at 0.6 blocks/s (#1)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0001.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:36:53[0m [34mmain[0m net Id: [36m##271ea998…[0m
+1 imported in 1.793 seconds at 0.6 blocks/s (#2)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0002.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:36:55[0m [34mmain[0m net Id: [36m##f22b0544…[0m
+1 imported in 1.81 seconds at 0.6 blocks/s (#3)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0003.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:36:57[0m [34mmain[0m net Id: [36m##e71e4097…[0m
+1 imported in 1.778 seconds at 0.6 blocks/s (#4)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0004.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:36:59[0m [34mmain[0m net Id: [36m##13b2f943…[0m
+1 imported in 1.796 seconds at 0.6 blocks/s (#5)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0005.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:01[0m [34mmain[0m net Id: [36m##83046a8a…[0m
+1 imported in 1.78 seconds at 0.6 blocks/s (#6)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0006.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:03[0m [34mmain[0m net Id: [36m##73e6accf…[0m
+1 imported in 1.783 seconds at 0.6 blocks/s (#7)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0007.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:05[0m [34mmain[0m net Id: [36m##e096a0cf…[0m
+1 imported in 1.778 seconds at 0.6 blocks/s (#8)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0008.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:07[0m [34mmain[0m net Id: [36m##e4560cfa…[0m
+1 imported in 1.792 seconds at 0.6 blocks/s (#9)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0009.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:09[0m [34mmain[0m net Id: [36m##73fb176b…[0m
+1 imported in 1.797 seconds at 0.6 blocks/s (#10)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0010.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:11[0m [34mmain[0m net Id: [36m##5db218e0…[0m
+1 imported in 1.777 seconds at 0.6 blocks/s (#11)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0011.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:13[0m [34mmain[0m net Id: [36m##25ea0210…[0m
+1 imported in 1.77 seconds at 0.6 blocks/s (#12)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0012.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:14[0m [34mmain[0m net Id: [36m##3f58125f…[0m
+1 imported in 1.775 seconds at 0.6 blocks/s (#13)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0013.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:16[0m [34mmain[0m net Id: [36m##bcf79513…[0m
+1 imported in 1.835 seconds at 0.5 blocks/s (#14)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0014.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:18[0m [34mmain[0m net Id: [36m##e6dd6189…[0m
+1 imported in 1.802 seconds at 0.6 blocks/s (#15)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0015.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:20[0m [34mmain[0m net Id: [36m##ccb7b065…[0m
+1 imported in 1.768 seconds at 0.6 blocks/s (#16)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0016.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:22[0m [34mmain[0m net Id: [36m##80cca00a…[0m
+1 imported in 1.79 seconds at 0.6 blocks/s (#17)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0017.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:24[0m [34mmain[0m net Id: [36m##8add5273…[0m
+1 imported in 1.794 seconds at 0.6 blocks/s (#18)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0018.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:26[0m [34mmain[0m net Id: [36m##c1039a85…[0m
+1 imported in 1.799 seconds at 0.6 blocks/s (#19)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0019.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:28[0m [34mmain[0m net Id: [36m##cc4b9eed…[0m
+1 imported in 1.826 seconds at 0.5 blocks/s (#20)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0020.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:30[0m [34mmain[0m net Id: [36m##626be5e9…[0m
+1 imported in 1.777 seconds at 0.6 blocks/s (#21)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0021.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:32[0m [34mmain[0m net Id: [36m##9c3659d6…[0m
+1 imported in 1.767 seconds at 0.6 blocks/s (#22)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0022.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:34[0m [34mmain[0m net Id: [36m##d68b6f2e…[0m
+1 imported in 1.809 seconds at 0.6 blocks/s (#23)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0023.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:36[0m [34mmain[0m net Id: [36m##1e703f7a…[0m
+1 imported in 1.775 seconds at 0.6 blocks/s (#24)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0024.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:38[0m [34mmain[0m net Id: [36m##1df6aab2…[0m
+0 imported in 1.007 seconds at 0 blocks/s (#25)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0025.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:39[0m [34mmain[0m net Id: [36m##b378f811…[0m
+1 imported in 1.817 seconds at 0.6 blocks/s (#26)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0026.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:41[0m [34mmain[0m net Id: [36m##e9c67b15…[0m
+1 imported in 1.776 seconds at 0.6 blocks/s (#27)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0027.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:43[0m [34mmain[0m net Id: [36m##43e91f7b…[0m
+1 imported in 1.78 seconds at 0.6 blocks/s (#28)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0028.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:45[0m [34mmain[0m net Id: [36m##e235b0ec…[0m
+1 imported in 1.788 seconds at 0.6 blocks/s (#28)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0029.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:47[0m [34mmain[0m net Id: [36m##1ddbc1cd…[0m
+0 imported in 1.001 seconds at 0 blocks/s (#28)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0030.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:48[0m [34mmain[0m net Id: [36m##edb63018…[0m
+0 imported in 1.002 seconds at 0 blocks/s (#29)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0031.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:50[0m [34mmain[0m net Id: [36m##ac0673e5…[0m
+1 imported in 1.805 seconds at 0.6 blocks/s (#30)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0032.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:52[0m [34mmain[0m net Id: [36m##84ac42aa…[0m
+1 imported in 1.79 seconds at 0.6 blocks/s (#31)
+Command: eth  --no-discovery --config /chain2.json --import /blocks/0033.rlp
+[1;37maleth, a C++ Ethereum client[0m
+[35m2018-09-06 15:37:54[0m [34mmain[0m net Id: [36m##7428d884…[0m
+1 imported in 1.79 seconds at 0.6 blocks/s (#32)
+Not importing keys, TODO implement relevant command
+Running Aleth... 
+cmd: python3 /usr/bin/aleth.py --rpc http://0.0.0.0:8545 --aleth-exec /usr/bin/aleth  --no-discovery --config /chain2.json
+[1;37maleth, a C++ Ethereum client[0m
+JSON-RPC HTTP Proxy: /root/.ethereum/geth.ipc -> http://0.0.0.0:8545
